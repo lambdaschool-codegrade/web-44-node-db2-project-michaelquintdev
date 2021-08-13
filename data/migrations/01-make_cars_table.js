@@ -1,5 +1,5 @@
 exports.up = function (knex) {
-  knex.schema.createTable('cars', tbl => {
+  return knex.schema.createTable('cars', tbl => {
     tbl.increments()
     tbl.string('vin', 20).unique().notNullable()
     tbl.string('make', 120).notNullable()
