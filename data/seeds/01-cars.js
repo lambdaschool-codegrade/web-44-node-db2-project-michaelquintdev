@@ -10,7 +10,7 @@ const cars = [
         transmission: 'automatic'
     },
     {
-        vin: '1234567891012',
+        vin: '1234567891022',
         make: 'Genesis',
         model: '370',
         mileage: 0,
