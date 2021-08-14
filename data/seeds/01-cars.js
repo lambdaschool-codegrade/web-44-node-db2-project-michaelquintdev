@@ -1,6 +1,6 @@
 const cars = [
     {
-        vin: '1234567891012',
+        vin: '2B3KA43GX6H200038',
         make: 'Acura',
         model: 'TLX',
         mileage: 0,
@@ -8,7 +8,7 @@ const cars = [
         transmission: 'automatic'
     },
     {
-        vin: '1234567891022',
+        vin: '2V4RW4D10AR353397',
         make: 'Genesis',
         model: '370',
         mileage: 0,
